@@ -1,0 +1,7 @@
+rvm: 1.9.3
+notifications:
+  email:
+    - christer.wendel@gmail.com
+env:
+  - PUPPET_VERSION=3.4.3
+  - PUPPET_VERSION=3.6.1
