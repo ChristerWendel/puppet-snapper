@@ -4,5 +4,5 @@
 class snapper::configure {
   $configs = $snapper::configs
 
-  add_snapper_config { $configs: }
+  snapper::add_snapper_config { $configs: }
 }
